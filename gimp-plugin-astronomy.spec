@@ -51,5 +51,5 @@ export LIBS="-lm"
 %doc README AUTHORS
 %{scriptdir}/*.scm
 %{plugindir}/astronomy-*
-#{_docdir}/gimp-plugin-astronomy
+%{_datadir}/gimp/2.0/doc/documentation*
 
