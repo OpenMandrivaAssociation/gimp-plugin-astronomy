@@ -4,7 +4,7 @@
 
 Name:           gimp-plugin-astronomy
 Version:        0.10
-Release:        1
+Release:        2
 Summary:        Astronomy plugins for the GIMP graphic editor
 License:        GPLv2+
 Group:          Graphics/Editors and Converters
