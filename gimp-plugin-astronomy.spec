@@ -9,7 +9,7 @@ Summary:        Astronomy plugins for the GIMP graphic editor
 License:        GPLv2+
 Group:          Graphics/Editors and Converters
 
-URL:            http://hennigbuam.de/georg/gimp.html
+URL:            https://hennigbuam.de/georg/gimp.html
 Source0:        http://www.hennigbuam.de/georg/downloads/%{name}-%{version}.tar.bz2
 
 BuildRequires:  intltool
